@@ -1,0 +1,8 @@
+GOOGLE_MAP_API_KEY = {change to your google map apikey and remove braces}
+DB_USER={change to your username and remove braces}
+DB_PASSWORD={change to your password and remove braces}
+DB_SERVER={change to your server and remove braces}
+DB_DATABASE=userDatabase
+DB_PORT = 1433
+
+// remove this line and change the filename to .env

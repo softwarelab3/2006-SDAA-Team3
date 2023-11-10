@@ -1,0 +1,5 @@
+/* Add this CSS to your global styles or component */
+html, body {
+  height: 100%;
+  overflow: hidden; /* Disable scrolling */
+}

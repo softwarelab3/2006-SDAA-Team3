@@ -1,0 +1,53 @@
+.filter-icon{
+  color: gray;
+  border: lightgray;
+}
+
+
+.filter-button{
+  background-color: white; 
+  border-color: gray; 
+  border-left: none;
+  background-repeat: no-repeat;
+}
+.filter-button.custom-bg{
+  background-color: white; 
+  border-color: gray; 
+  border-left: none;
+  background-repeat: no-repeat;
+}
+.filter-button:hover{
+  background-color: white;
+}
+.filter-button::after{
+  content: none;
+}
+
+.filter-button:active,
+.filter-button:focus {
+  background-color: white;
+}
+
+.filter-button{
+  background-color: white; 
+}
+
+.custom-search-box{
+  border-right: none;
+  border-color:gray ;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 180px;
+  overflow-x: hidden;
+}
+.scrollable-menu::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 4px;        
+}    
+.scrollable-menu::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background-color: lightgray;
+  -webkit-box-shadow: 0 0 1px rgba(255,255,255,.75);        
+}
