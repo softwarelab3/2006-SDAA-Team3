@@ -1,2 +1,1 @@
-Unable to upload to this repository. 
-To view source code please go to: https://github.com/OakesOng/SC2006-CarParkApp
+I have gitignored the env files and the api files. For using the files, users are supposed to convert the txt files and input the their own api keys or machine information. This is to ensure that machine information and credentials are not leaked for security reasons.
